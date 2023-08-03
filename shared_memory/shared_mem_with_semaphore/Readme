@@ -1,0 +1,6 @@
+Be sure to compile with the two link flags:
+
+% gcc -o mem_writer mem_writer.c -lrt -lpthread
+% gcc -o mem_reader mem_reader.c -lrt -lpthread
+
+Start the memwriter 1st, and then the memreader in a separate terminal within 12 seconds.
