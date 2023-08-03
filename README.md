@@ -1,0 +1,2 @@
+- This repository contains some IPC types codes
+- The reference of this work is the book 'A guide to inter-process communication in Linux'.
